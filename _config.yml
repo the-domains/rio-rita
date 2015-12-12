@@ -1,7 +1,7 @@
 name: Rio Rita
 favicon: null
-layout_spectrum: 0.07483441289514303
-typography_spectrum: 0.617423296906054
+layout_spectrum: 1
+typography_spectrum: 0.1379
 cta:
   domain: null
   bucket: null
